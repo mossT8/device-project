@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../infrastructure/device-database"
+		},
+		{
+			"path": "../../backend/device-backend"
+		},
+		{
+			"path": "../../frontend/device-frontend"
+		},
+		{
+			"path": "."
+		}
+	]
+}
